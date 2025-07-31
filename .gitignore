@@ -1,5 +1,12 @@
-*.class
 /build/
+# Java
+*.class
+*.jar
+*.war
+*.ear
+target/
+bin/
+
 
 
 
